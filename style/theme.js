@@ -6,16 +6,6 @@ const theme = {
     large: 48
   },
 
-  projectDetails: {
-    header: {
-      padding: 20,
-      margin: 20
-    },
-    headerText: {
-      fontSize: 30
-    }
-  },
-
   font: {
     family: {
       regular: 'Roboto',
